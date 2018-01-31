@@ -6,3 +6,10 @@ echo "<p>This is a new paragraph</p>";
 
 
 ?>
+
+<p> This is <BR/>
+   Normal <BR/>
+   HTML<BR/>
+  <image src="http://www.dasica.com/logobrandname/JdvLogo.jpg">
+    
+<?php echo "and this is from php again."?>
